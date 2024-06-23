@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<head>
-
-
-</head>
 <body>
     <h1>🚗 CRUD de Carros com Express e MySQL 🚀</h1>
     <p>Este projeto é um exemplo de um CRUD (Create, Read, Update, Delete) de carros desenvolvido utilizando Node.js com Express e a biblioteca <code>mysql2</code> para conexão com um banco de dados MySQL. O objetivo deste projeto é treinar o desenvolvimento de uma API RESTful com operações básicas de CRUD, bem como a integração com um banco de dados SQL.</p>
